@@ -1,25 +1,11 @@
 {
-  "name": "landing-page-to-promote-a-python-masterclass-at-college",
+  "name": "landing-page",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com"
-  },
-  "homepage": "https://github.com",
   "devDependencies": {
     "vite": "^5.2.0"
   }
